@@ -1,0 +1,128 @@
+2024-10-28 08:29:31,209 - INFO - Logging to file: logs/extraction_20241028_082931.log
+2024-10-28 08:29:43,202 - INFO - Starting extraction process at 2024-10-28 08:29:43.202279
+2024-10-28 08:29:43,205 - INFO - Reading input file: input.csv
+2024-10-28 08:29:43,226 - INFO - Found 9356 emails to process
+2024-10-28 08:29:43,230 - INFO - 🔍 Fetching data for email: yanlopesssilveira@gmail.com
+2024-10-28 08:29:44,026 - INFO - Retrieved data for yanlopesssilveira@gmail.com: {
+  "email": "yanlopesssilveira@gmail.com",
+  "manychat_id": "1254791968",
+  "shopify_email": "musmvlzq@instantdrop.store",
+  "shopify_domain": "968183-a8.myshopify.com",
+  "shopify_password": "5@e9o999",
+  "processed_at": "2024-10-28T08:29:44.026352"
+}
+2024-10-28 08:29:44,034 - INFO - 🔍 Fetching data for email: vitor.olimkt@gmail.com
+2024-10-28 08:29:44,797 - INFO - Retrieved data for vitor.olimkt@gmail.com: {
+  "email": "vitor.olimkt@gmail.com",
+  "manychat_id": "1554329732",
+  "shopify_email": "snzjweev@instantdrop.store",
+  "shopify_domain": "e583f9-86.myshopify.com",
+  "shopify_password": "85u651@3",
+  "processed_at": "2024-10-28T08:29:44.797281"
+}
+2024-10-28 08:29:44,804 - INFO - 🔍 Fetching data for email: vcsantoz.art@gmail.com
+2024-10-28 08:29:45,714 - INFO - Retrieved data for vcsantoz.art@gmail.com: {
+  "email": "vcsantoz.art@gmail.com",
+  "manychat_id": "1984910648",
+  "shopify_email": "rjukptuo@instantdrop.store",
+  "shopify_domain": "droplat-142289.myshopify.com",
+  "shopify_password": "ecom638@",
+  "processed_at": "2024-10-28T08:29:45.714744"
+}
+2024-10-28 08:29:45,722 - INFO - 🔍 Fetching data for email: sannykely@hotmail.com
+2024-10-28 08:29:46,448 - INFO - Retrieved data for sannykely@hotmail.com: {
+  "email": "sannykely@hotmail.com",
+  "manychat_id": "1714066147",
+  "shopify_email": "echrdkek@instantdrop.store",
+  "shopify_domain": "89fb44-c0.myshopify.com",
+  "shopify_password": "2u94e514",
+  "processed_at": "2024-10-28T08:29:46.448335"
+}
+2024-10-28 08:29:46,454 - INFO - 🔍 Fetching data for email: romulosouza.mkt@hotmail.com
+2024-10-28 08:29:47,200 - INFO - Retrieved data for romulosouza.mkt@hotmail.com: {
+  "email": "romulosouza.mkt@hotmail.com",
+  "manychat_id": "1760294380",
+  "shopify_email": "xrhwmyly@instantdrop.store",
+  "shopify_domain": "ff784b-c9.myshopify.com",
+  "shopify_password": "73a7u5iu",
+  "processed_at": "2024-10-28T08:29:47.200029"
+}
+2024-10-28 08:29:47,208 - INFO - 🔍 Fetching data for email: pryfiguereedo@gmail.com
+2024-10-28 08:29:47,941 - INFO - Retrieved data for pryfiguereedo@gmail.com: {
+  "email": "pryfiguereedo@gmail.com",
+  "manychat_id": "1677061593",
+  "shopify_email": "kjncusym@instantdrop.store",
+  "shopify_domain": "fcbfef-9f.myshopify.com",
+  "shopify_password": "i4@39o73",
+  "processed_at": "2024-10-28T08:29:47.940828"
+}
+2024-10-28 08:29:47,949 - INFO - 🔍 Fetching data for email: nivealeticialoja@gmail.com
+2024-10-28 08:29:48,660 - INFO - Retrieved data for nivealeticialoja@gmail.com: {
+  "email": "nivealeticialoja@gmail.com",
+  "manychat_id": "422579564",
+  "shopify_email": "dxeowvjm@instantdrop.store",
+  "shopify_domain": "43ef1b-9c.myshopify.com",
+  "shopify_password": "!u!u8276",
+  "processed_at": "2024-10-28T08:29:48.660801"
+}
+2024-10-28 08:29:48,667 - INFO - 🔍 Fetching data for email: matheusilv98@gmail.com
+2024-10-28 08:29:49,400 - INFO - Retrieved data for matheusilv98@gmail.com: {
+  "email": "matheusilv98@gmail.com",
+  "manychat_id": "795886792",
+  "shopify_email": "ansvfbbj@instantdrop.store",
+  "shopify_domain": "droplat-142446.myshopify.com",
+  "shopify_password": "ecom733@",
+  "processed_at": "2024-10-28T08:29:49.400581"
+}
+2024-10-28 08:29:49,403 - INFO - 🔍 Fetching data for email: jana.foz@hotmail.com
+2024-10-28 08:29:50,291 - INFO - Retrieved data for jana.foz@hotmail.com: {
+  "email": "jana.foz@hotmail.com",
+  "manychat_id": "1865094145",
+  "shopify_email": "jsgyahmi@instantdrop.store",
+  "shopify_domain": "41aef3-16.myshopify.com",
+  "shopify_password": "ao5!ai89",
+  "processed_at": "2024-10-28T08:29:50.291607"
+}
+2024-10-28 08:29:50,298 - INFO - 🔍 Fetching data for email: igortrentinlatam@gmail.com
+2024-10-28 08:29:51,346 - INFO - Retrieved data for igortrentinlatam@gmail.com: {
+  "email": "igortrentinlatam@gmail.com",
+  "manychat_id": "51975683",
+  "shopify_email": "kkrnbejd@instantdrop.store",
+  "shopify_domain": "f00550-1a.myshopify.com",
+  "shopify_password": "a@484a7@",
+  "processed_at": "2024-10-28T08:29:51.346228"
+}
+2024-10-28 08:29:51,360 - ERROR - Fatal error during processing
+Traceback (most recent call last):
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/manychat_extractor.py", line 255, in process_csv
+    self.save_progress(self.results, output_file)
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/manychat_extractor.py", line 199, in save_progress
+    df.to_csv(output_file, index=False)
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/venv/lib/python3.9/site-packages/pandas/core/generic.py", line 3902, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/venv/lib/python3.9/site-packages/pandas/io/formats/format.py", line 1152, in to_csv
+    csv_formatter.save()
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/venv/lib/python3.9/site-packages/pandas/io/formats/csvs.py", line 247, in save
+    with get_handle(
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/venv/lib/python3.9/site-packages/pandas/io/common.py", line 863, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: ''
+2024-10-28 08:29:51,640 - INFO - Progress saved to error_backup_20241028_082951.csv
+2024-10-28 08:29:51,641 - INFO - Partial results saved to: error_backup_20241028_082951.csv
+2024-10-28 08:29:51,642 - ERROR - Program terminated with error
+Traceback (most recent call last):
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/manychat_extractor.py", line 311, in main
+    output_file = extractor.process_csv(input_file, output_file, resume)
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/manychat_extractor.py", line 255, in process_csv
+    self.save_progress(self.results, output_file)
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/manychat_extractor.py", line 199, in save_progress
+    df.to_csv(output_file, index=False)
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/venv/lib/python3.9/site-packages/pandas/core/generic.py", line 3902, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/venv/lib/python3.9/site-packages/pandas/io/formats/format.py", line 1152, in to_csv
+    csv_formatter.save()
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/venv/lib/python3.9/site-packages/pandas/io/formats/csvs.py", line 247, in save
+    with get_handle(
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/venv/lib/python3.9/site-packages/pandas/io/common.py", line 863, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: ''

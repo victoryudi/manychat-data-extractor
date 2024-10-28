@@ -1,0 +1,15 @@
+2024-10-28 08:13:53,638 - INFO - Logging to file: logs/extraction_20241028_081353.log
+2024-10-28 08:14:02,582 - INFO - Starting extraction process at 2024-10-28 08:14:02.582237
+2024-10-28 08:14:02,585 - INFO - Reading input file: input.csv
+2024-10-28 08:14:02,598 - ERROR - Fatal error during processing
+Traceback (most recent call last):
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/manychat_extractor.py", line 163, in process_csv
+    raise ValueError("CSV must contain an 'email' column")
+ValueError: CSV must contain an 'email' column
+2024-10-28 08:14:02,646 - ERROR - Program terminated with error
+Traceback (most recent call last):
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/manychat_extractor.py", line 235, in main
+    output_file = extractor.process_csv(input_file)
+  File "/Users/victortomo/Documents/Development/00_ai_development/scripts/manychat-customer-data/manychat_extractor.py", line 163, in process_csv
+    raise ValueError("CSV must contain an 'email' column")
+ValueError: CSV must contain an 'email' column

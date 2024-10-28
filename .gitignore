@@ -1,0 +1,5 @@
+repopack-output.txt
+*.csv
+.env
+/venv
+!logs/
